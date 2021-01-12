@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AK8CfpZdD1N5ZJxQsks3aQq9uSbc1m2wcWlEOz6lgY5hEVaKT8qMd6ZWu7QJGDWPY8lqz4RwMW9M1tSUUOGLXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BOICOMP20070033\\source\\repos\\CVS_ReadAndWrite12Jan21\\CVS_ReadAndWrite12Jan21\\CVS_ReadAndWrite12Jan21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BOICOMP20070033\\.nuget\\packages\\csvhelper\\19.0.0\\csvhelper.19.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

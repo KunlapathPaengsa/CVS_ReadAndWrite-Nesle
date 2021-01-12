@@ -1,0 +1,4 @@
+C:\Users\BOICOMP20070033\source\repos\CVS_ReadAndWrite12Jan21\CVS_ReadAndWrite12Jan21\obj\Debug\netcoreapp3.1\CVS_ReadAndWrite12Jan21.csprojAssemblyReference.cache
+C:\Users\BOICOMP20070033\source\repos\CVS_ReadAndWrite12Jan21\CVS_ReadAndWrite12Jan21\obj\Debug\netcoreapp3.1\CVS_ReadAndWrite12Jan21.AssemblyInfoInputs.cache
+C:\Users\BOICOMP20070033\source\repos\CVS_ReadAndWrite12Jan21\CVS_ReadAndWrite12Jan21\obj\Debug\netcoreapp3.1\CVS_ReadAndWrite12Jan21.AssemblyInfo.cs
+C:\Users\BOICOMP20070033\source\repos\CVS_ReadAndWrite12Jan21\CVS_ReadAndWrite12Jan21\obj\Debug\netcoreapp3.1\CVS_ReadAndWrite12Jan21.csproj.CoreCompileInputs.cache
